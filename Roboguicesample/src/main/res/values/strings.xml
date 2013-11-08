@@ -4,5 +4,8 @@
     <string name="app_name">Roboguice sample</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="str_login_name">Your name!</string>
+    <string name="str_button_signin">sign in</string>
+    <string name="str_welcome">Welcome back</string>
 
 </resources>
